@@ -1,5 +1,5 @@
 ---
-name: Add a New Token
+name: JBOX
 about: Request addition of a new token to tokenbase
 
 ---
@@ -10,16 +10,22 @@ Token addition guide: https://www.reddit.com/r/ForkDelta/comments/7tntnz/how_to_
 Got questions? Join Discord chat: https://discord.gg/mMnRq7m
 -->
 
-**Token address:**
+**Token address:0x884e3902c4d5cfa86de4ace7a96aa91ebc25c0ff
 
 
-**Issuer's official website:**
+**Issuer's official website:http://jboxcoin.org/
 
 
-**Description:** <!-- 1-3 sentences for the token's description: at least one on the token issuer (eg., the product they are building) and one on token's purpose. -->
+**Description:JBOX is a decentralized blockchain video streaming platform designed to
+provide customers with a   huge sense of value for their leisure time
+via a well-augmented dual mining process (Proof of   Upload and Proof of
+View).
+
+This program is designed to benefit token user for downloading and
+streaming videos of all   varieties on the JBOX platforms.
 
 
-**A link to the official contract address confirmation:** <!-- Contract address confirmation MUST be linked from the official website and MUST be visible publicly. It CANNOT be an Etherscan.io link. If the confirmation is not visible immediately, include an explanation of how to find it. -->
+**A link to the official contract address confirmation:https://etherscan.io/token/0x884e3902c4d5cfa86de4ace7a96aa91ebc25c0ff#readContract
 
 
 **Links to third-party reviews or discussion of the token, the project/product, or the token issuer:**
@@ -29,5 +35,5 @@ Note:
 * We are looking for substance in reviews. Reviews like "Interesting project, good luck", "to the moon" are NOT acceptable.
 * These reviews cannot be on a resource controlled by the project (ie., project's subreddits or Telegram channels do not count as third-party discussion).
 -->
-1. 
-2.
+1. https://bitcointalk.org/index.php?topic=2330794.0
+2. https://t.me/jboxcoin
